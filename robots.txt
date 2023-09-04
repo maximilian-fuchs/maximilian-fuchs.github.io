@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://maximilian-fuchs.github.io/sitemap.xml
