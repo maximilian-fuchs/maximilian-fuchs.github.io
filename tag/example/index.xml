@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>example | Maximilian Fuchs</title>
+    <link>https://maximilian-fuchs.github.io/tag/example/</link>
+      <atom:link href="https://maximilian-fuchs.github.io/tag/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>example</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
+      <title>example</title>
+      <link>https://maximilian-fuchs.github.io/tag/example/</link>
+    </image>
+    
+    <item>
+      <title>Climate Policy Action and the Pricing of Bank Loans</title>
+      <link>https://maximilian-fuchs.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/project/example/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Using granular credit register data of Euro area banks, information on borrowers&amp;rsquo; greenhouse gas emissions and their countries&amp;rsquo; degree of climate action, we study whether banks price climate-related policy risk in their corporate loan portfolios. We find the risk of moving to a low carbon economy is priced only when polluting borrowers face high levels of climate action. The pricing of such transition risk is driven by loans originated after the adoption of the Paris Agreement and more pronounced for long maturity loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude if loans are provided by green banks who indicate to consider climate risks in their pricing processes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
