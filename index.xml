@@ -33,6 +33,48 @@
     </item>
     
     <item>
+      <title>Polluters are Short-Lived``:`` Climate Risk and the Timing of Cash Flows</title>
+      <link>https://maximilian-fuchs.github.io/project/duration/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/project/duration/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-median-total-carbon-emissions-blue-solid-line-intensity-of-carbon-emissions-red-dashed-line-and-carbon-emission-footprint-grey-solid-dashed-line-per-median-duration-of-portfolio-deciles-ranked-on-annual-cash-flow-duration--portfolios-are-rebalanced-every-calendar-year-_i_-based-on-the-realization-of-the-sorting-variable-of-the-fiscal-year-ending-in-the-same-year&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year _i_ based on the realization of the sorting variable of the fiscal year ending in the same year.&#34; srcset=&#34;
+               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f83d1961cd4ae39ec603892989588ac.webp 400w,
+               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_eb9ca590c12f159365eeadb5e76ace4e.webp 760w,
+               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://maximilian-fuchs.github.io/project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f83d1961cd4ae39ec603892989588ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year &lt;em&gt;i&lt;/em&gt; based on the realization of the sorting variable of the fiscal year ending in the same year.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://maximilian-fuchs.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +258,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-954168723&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-857129346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +268,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-954168723&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-857129346&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -702,15 +744,22 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>Example Project</title>
+      <title>Climate Policy Action and the Pricing of Bank Loans</title>
+      <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Using granular credit register data of Euro area banks, information on borrowers&amp;rsquo; greenhouse gas emissions and their countries&amp;rsquo; degree of climate action, we study whether banks price climate-related policy risk in their corporate loan portfolios. We find the risk of moving to a low carbon economy is priced only when polluting borrowers face high levels of climate action. The pricing of such transition risk is driven by loans originated after the adoption of the Paris Agreement and more pronounced for long maturity loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude if loans are provided by green banks who indicate to consider climate risks in their pricing processes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Policy Action and the Pricing of Bank Loans</title>
       <link>https://maximilian-fuchs.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://maximilian-fuchs.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+Using granular credit register data of Euro area banks, information on borrowers&amp;rsquo; greenhouse gas emissions and their countries&amp;rsquo; degree of climate action, we study whether banks price climate-related policy risk in their corporate loan portfolios. We find the risk of moving to a low carbon economy is priced only when polluting borrowers face high levels of climate action. The pricing of such transition risk is driven by loans originated after the adoption of the Paris Agreement and more pronounced for long maturity loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude if loans are provided by green banks who indicate to consider climate risks in their pricing processes.&lt;/p&gt;
 </description>
     </item>
     
