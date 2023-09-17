@@ -13,29 +13,9 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://maximilian-fuchs.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Polluters are Short-Lived``:`` Climate Risk and the Timing of Cash Flows</title>
       <link>https://maximilian-fuchs.github.io/project/duration/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://maximilian-fuchs.github.io/project/duration/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
@@ -71,6 +51,76 @@ I construct a measure of cash flow duration at the firm level and link it to car
       Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year &lt;em&gt;i&lt;/em&gt; based on the realization of the sorting variable of the fiscal year ending in the same year.
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Policy Action and the Pricing of Bank Loans (with Martina Spaggiari)</title>
+      <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy (with 7 co-authors)</title>
+      <link>https://maximilian-fuchs.github.io/project/stress_test/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/project/stress_test/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
+I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-median-total-carbon-emissions-blue-solid-line-intensity-of-carbon-emissions-red-dashed-line-and-carbon-emission-footprint-grey-solid-dashed-line-per-median-duration-of-portfolio-deciles-ranked-on-annual-cash-flow-duration--portfolios-are-rebalanced-every-calendar-year-_i_-based-on-the-realization-of-the-sorting-variable-of-the-fiscal-year-ending-in-the-same-year&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year _i_ based on the realization of the sorting variable of the fiscal year ending in the same year.&#34; srcset=&#34;
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_0bcdf0a130200e621e87847b273deb50.webp 400w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_79569c4f6fd635c9134b9afaeae8aa43.webp 760w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://maximilian-fuchs.github.io/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_0bcdf0a130200e621e87847b273deb50.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year &lt;em&gt;i&lt;/em&gt; based on the realization of the sorting variable of the fiscal year ending in the same year.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://maximilian-fuchs.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://maximilian-fuchs.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
     </item>
     
@@ -258,7 +308,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-857129346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-568124379&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -268,7 +318,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-857129346&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-568124379&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -741,34 +791,6 @@ Crash --&gt; [*]
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Climate Policy Action and the Pricing of Bank Loans</title>
-      <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
-Using granular credit register data of Euro area banks, information on borrowers&amp;rsquo; greenhouse gas emissions and their countries&amp;rsquo; degree of climate action, we study whether banks price climate-related policy risk in their corporate loan portfolios. We find the risk of moving to a low carbon economy is priced only when polluting borrowers face high levels of climate action. The pricing of such transition risk is driven by loans originated after the adoption of the Paris Agreement and more pronounced for long maturity loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude if loans are provided by green banks who indicate to consider climate risks in their pricing processes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Climate Policy Action and the Pricing of Bank Loans</title>
-      <link>https://maximilian-fuchs.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/example/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
-Using granular credit register data of Euro area banks, information on borrowers&amp;rsquo; greenhouse gas emissions and their countries&amp;rsquo; degree of climate action, we study whether banks price climate-related policy risk in their corporate loan portfolios. We find the risk of moving to a low carbon economy is priced only when polluting borrowers face high levels of climate action. The pricing of such transition risk is driven by loans originated after the adoption of the Paris Agreement and more pronounced for long maturity loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude if loans are provided by green banks who indicate to consider climate risks in their pricing processes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://maximilian-fuchs.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
