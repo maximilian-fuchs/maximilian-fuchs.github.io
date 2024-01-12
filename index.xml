@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Climate Policy Action and the Pricing of Bank Loans (with Martina Spaggiari)</title>
+      <title>Climate Policy Action and the Pricing of Bank Loans</title>
       <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
@@ -63,7 +63,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
     </item>
     
     <item>
-      <title>The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy (with 7 co-authors)</title>
+      <title>The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy</title>
       <link>https://maximilian-fuchs.github.io/project/stress_test/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://maximilian-fuchs.github.io/project/stress_test/</guid>
@@ -308,7 +308,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-573296184&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-524178639&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -318,7 +318,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-573296184&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-524178639&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
