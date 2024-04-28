@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Maximilian Fuchs</title>
-    <link>http://localhost:1313/tag/academic/</link>
-      <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maximilian-fuchs.github.io/tag/academic/</link>
+      <atom:link href="https://maximilian-fuchs.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>http://localhost:1313/tag/academic/</link>
+      <link>https://maximilian-fuchs.github.io/tag/academic/</link>
     </image>
     
     <item>
       <title>Climate Policy Action and the Pricing of Bank Loans</title>
-      <link>http://localhost:1313/project/bank_loans/</link>
+      <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bank_loans/</guid>
+      <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polluters are Short-Lived``:`` Climate Risk and the Timing of Cash Flows</title>
-      <link>http://localhost:1313/project/duration/</link>
+      <link>https://maximilian-fuchs.github.io/project/duration/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/duration/</guid>
+      <guid>https://maximilian-fuchs.github.io/project/duration/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
 
@@ -48,10 +48,10 @@ I construct a measure of cash flow duration at the firm level and link it to car
 &lt;figure  id=&#34;figure-median-total-carbon-emissions-blue-solid-line-intensity-of-carbon-emissions-red-dashed-line-and-carbon-emission-footprint-grey-solid-dashed-line-per-median-duration-of-portfolio-deciles-ranked-on-annual-cash-flow-duration--portfolios-are-rebalanced-every-calendar-year-_i_-based-on-the-realization-of-the-sorting-variable-of-the-fiscal-year-ending-in-the-same-year&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year _i_ based on the realization of the sorting variable of the fiscal year ending in the same year.&#34; srcset=&#34;
-               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_1419a0a293d2c82ccd04400c348783fb.webp 400w,
-               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_23fbc65aa261e4292d6a4f6fba5cd50d.webp 760w,
+               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f3e0cc895b5338d98c0a1243ad322e0.webp 400w,
+               /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_eb9ca590c12f159365eeadb5e76ace4e.webp 760w,
                /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_1419a0a293d2c82ccd04400c348783fb.webp&#34;
+               src=&#34;https://maximilian-fuchs.github.io/project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f3e0cc895b5338d98c0a1243ad322e0.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -64,9 +64,9 @@ I construct a measure of cash flow duration at the firm level and link it to car
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://maximilian-fuchs.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://maximilian-fuchs.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;

@@ -3,7 +3,7 @@
 <!-- Last Published: April 28, 2024 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.2ce70dd1c4c726583c6572dc124b88d8.css" />
 
   
   
@@ -239,6 +239,45 @@
   <meta name="google-site-verification" content="google-site-verification=LhgILf3dcXbGiXNgqgY9wGlx1j_3pkESv58wzs40pNM" />
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7X1GZ53TXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-7X1GZ53TXN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -282,8 +321,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/stress_test/" />
-<link rel="canonical" href="http://localhost:1313/project/stress_test/" />
+<link rel="alternate" hreflang="en-us" href="https://maximilian-fuchs.github.io/project/stress_test/" />
+<link rel="canonical" href="https://maximilian-fuchs.github.io/project/stress_test/" />
 
 
 
@@ -313,7 +352,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/project/stress_test/featured.png" />
+<meta property="twitter:image" content="https://maximilian-fuchs.github.io/project/stress_test/featured.png" />
 
 
 
@@ -321,9 +360,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Maximilian Fuchs" />
-<meta property="og:url" content="http://localhost:1313/project/stress_test/" />
+<meta property="og:url" content="https://maximilian-fuchs.github.io/project/stress_test/" />
 <meta property="og:title" content="The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy | Maximilian Fuchs" />
-<meta property="og:description" content="_with 7 co-authors_&lt;br&gt; Transition to a carbon-neutral economy is necessary to limit the negative impact of climate change and has become one of the world’s most urgent priorities. This paper assesses the impact of three potential transition pathways, differing in the timing and level of ambition of emissions’ reduction, and quantifies the associated investment needs, economic costs and financial risks for corporates, households and financial institutions in the euro area." /><meta property="og:image" content="http://localhost:1313/project/stress_test/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="_with 7 co-authors_&lt;br&gt; Transition to a carbon-neutral economy is necessary to limit the negative impact of climate change and has become one of the world’s most urgent priorities. This paper assesses the impact of three potential transition pathways, differing in the timing and level of ambition of emissions’ reduction, and quantifies the associated investment needs, economic costs and financial risks for corporates, households and financial institutions in the euro area." /><meta property="og:image" content="https://maximilian-fuchs.github.io/project/stress_test/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -356,12 +395,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/project/stress_test/"
+    "@id": "https://maximilian-fuchs.github.io/project/stress_test/"
   },
   "headline": "The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy",
   
   "image": [
-    "http://localhost:1313/project/stress_test/featured.png"
+    "https://maximilian-fuchs.github.io/project/stress_test/featured.png"
   ],
   
   "datePublished": "2023-04-27T00:00:00Z",
@@ -372,7 +411,7 @@
     "name": "Maximilian Fuchs",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
+      "url": "https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "_with 7 co-authors_\u003cbr\u003e Transition to a carbon-neutral economy is necessary to limit the negative impact of climate change and has become one of the world’s most urgent priorities. This paper assesses the impact of three potential transition pathways, differing in the timing and level of ambition of emissions’ reduction, and quantifies the associated investment needs, economic costs and financial risks for corporates, households and financial institutions in the euro area."
@@ -428,7 +467,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -873,10 +912,10 @@ I construct a measure of cash flow duration at the firm level and link it to car
 <figure  id="figure-median-total-carbon-emissions-blue-solid-line-intensity-of-carbon-emissions-red-dashed-line-and-carbon-emission-footprint-grey-solid-dashed-line-per-median-duration-of-portfolio-deciles-ranked-on-annual-cash-flow-duration--portfolios-are-rebalanced-every-calendar-year-_i_-based-on-the-realization-of-the-sorting-variable-of-the-fiscal-year-ending-in-the-same-year">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year _i_ based on the realization of the sorting variable of the fiscal year ending in the same year." srcset="
-               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_c2d808f189c6f0f7ef0e2cdaab815725.webp 400w,
-               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_4071988f654d70276bd16d52f334c963.webp 760w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_b637b2e310fae8ae9a6dd82f091391f4.webp 400w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_79569c4f6fd635c9134b9afaeae8aa43.webp 760w,
                /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-               src="/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_c2d808f189c6f0f7ef0e2cdaab815725.webp"
+               src="/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_b637b2e310fae8ae9a6dd82f091391f4.webp"
                width="760"
                height="413"
                loading="lazy" data-zoomable /></div>
@@ -916,7 +955,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F&amp;text=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F&amp;text=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -933,7 +972,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F&amp;t=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F&amp;t=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -952,7 +991,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
         
       
       <li>
-        <a href="mailto:?subject=The%20Road%20to%20Paris%60%60%3A%60%60%20Stress%20Testing%20the%20Transition%20Towards%20a%20Net-Zero%20Economy&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=The%20Road%20to%20Paris%60%60%3A%60%60%20Stress%20Testing%20the%20Transition%20Towards%20a%20Net-Zero%20Economy&amp;body=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -969,7 +1008,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F&amp;title=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F&amp;title=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -986,7 +1025,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="whatsapp://send?text=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy%20http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy%20https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1003,7 +1042,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fstress_test%2F&amp;title=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fstress_test%2F&amp;title=The&#43;Road&#43;to&#43;Paris%60%60%3A%60%60&#43;Stress&#43;Testing&#43;the&#43;Transition&#43;Towards&#43;a&#43;Net-Zero&#43;Economy" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1036,11 +1075,11 @@ I construct a measure of cash flow duration at the firm level and link it to car
   <div class="media author-card content-widget-hr">
     
       
-      <a href="http://localhost:1313/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu6b7d4a6acf18fb1fb25a22edffd5c891_915657_270x270_fill_q75_lanczos_center.jpg" alt=""></a>
+      <a href="https://maximilian-fuchs.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu6b7d4a6acf18fb1fb25a22edffd5c891_915657_270x270_fill_q75_lanczos_center.jpg" alt=""></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/"></a></h5>
+      <h5 class="card-title"><a href="https://maximilian-fuchs.github.io/"></a></h5>
       
       <p class="card-text">My research interests include climate finance and asset pricing</p>
       <ul class="network-icon" aria-hidden="true">
@@ -1212,7 +1251,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
@@ -1293,7 +1332,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1307,11 +1346,11 @@ I construct a measure of cash flow duration at the firm level and link it to car
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1344,7 +1383,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

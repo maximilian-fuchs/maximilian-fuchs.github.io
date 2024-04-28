@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy | Maximilian Fuchs</title>
-    <link>http://localhost:1313/tag/policy/</link>
-      <atom:link href="http://localhost:1313/tag/policy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maximilian-fuchs.github.io/tag/policy/</link>
+      <atom:link href="https://maximilian-fuchs.github.io/tag/policy/index.xml" rel="self" type="application/rss+xml" />
     <description>Policy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
       <title>Policy</title>
-      <link>http://localhost:1313/tag/policy/</link>
+      <link>https://maximilian-fuchs.github.io/tag/policy/</link>
     </image>
     
     <item>
       <title>The Road to Paris``:`` Stress Testing the Transition Towards a Net-Zero Economy</title>
-      <link>http://localhost:1313/project/stress_test/</link>
+      <link>https://maximilian-fuchs.github.io/project/stress_test/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stress_test/</guid>
+      <guid>https://maximilian-fuchs.github.io/project/stress_test/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
 
@@ -40,10 +40,10 @@ I construct a measure of cash flow duration at the firm level and link it to car
 &lt;figure  id=&#34;figure-median-total-carbon-emissions-blue-solid-line-intensity-of-carbon-emissions-red-dashed-line-and-carbon-emission-footprint-grey-solid-dashed-line-per-median-duration-of-portfolio-deciles-ranked-on-annual-cash-flow-duration--portfolios-are-rebalanced-every-calendar-year-_i_-based-on-the-realization-of-the-sorting-variable-of-the-fiscal-year-ending-in-the-same-year&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Median total carbon emissions (blue solid line), intensity of carbon emissions (red dashed line), and carbon emission footprint (grey solid-dashed line) per median duration of portfolio deciles ranked on annual cash flow duration.  Portfolios are rebalanced every calendar year _i_ based on the realization of the sorting variable of the fiscal year ending in the same year.&#34; srcset=&#34;
-               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_c2d808f189c6f0f7ef0e2cdaab815725.webp 400w,
-               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_4071988f654d70276bd16d52f334c963.webp 760w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_b637b2e310fae8ae9a6dd82f091391f4.webp 400w,
+               /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_79569c4f6fd635c9134b9afaeae8aa43.webp 760w,
                /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_c2d808f189c6f0f7ef0e2cdaab815725.webp&#34;
+               src=&#34;https://maximilian-fuchs.github.io/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_b637b2e310fae8ae9a6dd82f091391f4.webp&#34;
                width=&#34;760&#34;
                height=&#34;413&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
