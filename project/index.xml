@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Maximilian Fuchs</title>
-    <link>https://maximilian-fuchs.github.io/project/</link>
-      <atom:link href="https://maximilian-fuchs.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://maximilian-fuchs.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Carbon VIX: Carbon Price Uncertainty and Decarbonization Investments</title>
-      <link>https://maximilian-fuchs.github.io/project/carbon_vix/</link>
+      <link>http://localhost:1313/project/carbon_vix/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/carbon_vix/</guid>
+      <guid>http://localhost:1313/project/carbon_vix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Policy Action and the Pricing of Bank Loans</title>
-      <link>https://maximilian-fuchs.github.io/project/bank_loans/</link>
+      <link>http://localhost:1313/project/bank_loans/</link>
       <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/bank_loans/</guid>
+      <guid>http://localhost:1313/project/bank_loans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polluters are Short-Lived: Climate Risk and the Timing of Cash Flows</title>
-      <link>https://maximilian-fuchs.github.io/project/duration/</link>
+      <link>http://localhost:1313/project/duration/</link>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/duration/</guid>
+      <guid>http://localhost:1313/project/duration/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
 
@@ -59,7 +59,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
                /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f83d1961cd4ae39ec603892989588ac.webp 400w,
                /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_eb9ca590c12f159365eeadb5e76ace4e.webp 760w,
                /project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://maximilian-fuchs.github.io/project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f83d1961cd4ae39ec603892989588ac.webp&#34;
+               src=&#34;http://localhost:1313/project/duration/featured_hu762e968a4563be5bf3c946980d19ec55_197390_2f83d1961cd4ae39ec603892989588ac.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -72,9 +72,9 @@ I construct a measure of cash flow duration at the firm level and link it to car
     
     <item>
       <title>The Road to Paris: Stress Testing the Transition Towards a Net-Zero Economy</title>
-      <link>https://maximilian-fuchs.github.io/project/stress_test/</link>
+      <link>http://localhost:1313/project/stress_test/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://maximilian-fuchs.github.io/project/stress_test/</guid>
+      <guid>http://localhost:1313/project/stress_test/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;
 I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission and duration premiums. Return differences are driven by emissions instead of duration and disappear after controlling for changes in investors&amp;rsquo; climate concerns. These changes, together with the novel link between duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.&lt;/p&gt;
 
@@ -101,7 +101,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
                /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_0bcdf0a130200e621e87847b273deb50.webp 400w,
                /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_79569c4f6fd635c9134b9afaeae8aa43.webp 760w,
                /project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://maximilian-fuchs.github.io/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_0bcdf0a130200e621e87847b273deb50.webp&#34;
+               src=&#34;http://localhost:1313/project/stress_test/featured_hu854c291ecbd7ed7b77208c2c0f885ebc_40637_0bcdf0a130200e621e87847b273deb50.webp&#34;
                width=&#34;760&#34;
                height=&#34;413&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
