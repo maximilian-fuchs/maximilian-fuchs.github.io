@@ -3,7 +3,7 @@
 <!-- Last Published: November 16, 2024 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.e3577d6086d047490578696ff2080496.css" />
 
   
   
@@ -239,6 +239,45 @@
   <meta name="google-site-verification" content="google-site-verification=LhgILf3dcXbGiXNgqgY9wGlx1j_3pkESv58wzs40pNM" />
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7X1GZ53TXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-7X1GZ53TXN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -281,7 +320,7 @@
 <meta name="description" content="_with Martina Spaggiari_&lt;br&gt;
     &lt;div style=&#34;text-align: justify; font-size: 0.85rem&#34;&gt;
     &lt;p&gt;
-    Using euro area banks&#39; credit register data, information on borrowers&#39; greenhouse gas emissions and their countries&#39;
+    Using Euro area banks&#39; credit register data, information on borrowers&#39; greenhouse gas emissions and their countries&#39;
     degree of climate policy action (CPA), we study whether banks price climate-related policy risk in their corporate
     loan portfolios. We find these risks are priced only when polluting borrowers face high levels of CPA. This effect
     is driven by loans originated after the adoption of the Paris Agreement and is more pronounced for long maturity
@@ -293,8 +332,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/bank_loans/" />
-<link rel="canonical" href="http://localhost:1313/project/bank_loans/" />
+<link rel="alternate" hreflang="en-us" href="https://maximilian-fuchs.github.io/project/bank_loans/" />
+<link rel="canonical" href="https://maximilian-fuchs.github.io/project/bank_loans/" />
 
 
 
@@ -324,7 +363,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/project/bank_loans/featured.png" />
+<meta property="twitter:image" content="https://maximilian-fuchs.github.io/project/bank_loans/featured.png" />
 
 
 
@@ -332,12 +371,12 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Maximilian Fuchs" />
-<meta property="og:url" content="http://localhost:1313/project/bank_loans/" />
+<meta property="og:url" content="https://maximilian-fuchs.github.io/project/bank_loans/" />
 <meta property="og:title" content="Climate Policy Action and the Pricing of Bank Loans | Maximilian Fuchs" />
 <meta property="og:description" content="_with Martina Spaggiari_&lt;br&gt;
     &lt;div style=&#34;text-align: justify; font-size: 0.85rem&#34;&gt;
     &lt;p&gt;
-    Using euro area banks&#39; credit register data, information on borrowers&#39; greenhouse gas emissions and their countries&#39;
+    Using Euro area banks&#39; credit register data, information on borrowers&#39; greenhouse gas emissions and their countries&#39;
     degree of climate policy action (CPA), we study whether banks price climate-related policy risk in their corporate
     loan portfolios. We find these risks are priced only when polluting borrowers face high levels of CPA. This effect
     is driven by loans originated after the adoption of the Paris Agreement and is more pronounced for long maturity
@@ -345,7 +384,7 @@
     if loans are provided by green banks.
     &lt;/p&gt;
     _A draft is available upon request._
-    &lt;/div&gt;" /><meta property="og:image" content="http://localhost:1313/project/bank_loans/featured.png" /><meta property="og:locale" content="en-us" />
+    &lt;/div&gt;" /><meta property="og:image" content="https://maximilian-fuchs.github.io/project/bank_loans/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -378,12 +417,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/project/bank_loans/"
+    "@id": "https://maximilian-fuchs.github.io/project/bank_loans/"
   },
   "headline": "Climate Policy Action and the Pricing of Bank Loans",
   
   "image": [
-    "http://localhost:1313/project/bank_loans/featured.png"
+    "https://maximilian-fuchs.github.io/project/bank_loans/featured.png"
   ],
   
   "datePublished": "2023-04-30T00:00:00Z",
@@ -394,10 +433,10 @@
     "name": "Maximilian Fuchs",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
+      "url": "https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "_with Martina Spaggiari_\u003cbr\u003e\n    \u003cdiv style=\"text-align: justify; font-size: 0.85rem\"\u003e\n    \u003cp\u003e\n    Using euro area banks' credit register data, information on borrowers' greenhouse gas emissions and their countries'\n    degree of climate policy action (CPA), we study whether banks price climate-related policy risk in their corporate\n    loan portfolios. We find these risks are priced only when polluting borrowers face high levels of CPA. This effect\n    is driven by loans originated after the adoption of the Paris Agreement and is more pronounced for long maturity\n    loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude\n    if loans are provided by green banks.\n    \u003c/p\u003e\n    _A draft is available upon request._\n    \u003c/div\u003e"
+  "description": "_with Martina Spaggiari_\u003cbr\u003e\n    \u003cdiv style=\"text-align: justify; font-size: 0.85rem\"\u003e\n    \u003cp\u003e\n    Using Euro area banks' credit register data, information on borrowers' greenhouse gas emissions and their countries'\n    degree of climate policy action (CPA), we study whether banks price climate-related policy risk in their corporate\n    loan portfolios. We find these risks are priced only when polluting borrowers face high levels of CPA. This effect\n    is driven by loans originated after the adoption of the Paris Agreement and is more pronounced for long maturity\n    loans. Benefiting from bank-level survey results, we show that this effect is larger in terms of scope and magnitude\n    if loans are provided by green banks.\n    \u003c/p\u003e\n    _A draft is available upon request._\n    \u003c/div\u003e"
 }
 </script>
 
@@ -450,7 +489,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -877,7 +916,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F&amp;text=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F&amp;text=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -894,7 +933,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F&amp;t=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F&amp;t=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -913,7 +952,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Climate%20Policy%20Action%20and%20the%20Pricing%20of%20Bank%20Loans&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Climate%20Policy%20Action%20and%20the%20Pricing%20of%20Bank%20Loans&amp;body=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -930,7 +969,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F&amp;title=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F&amp;title=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -947,7 +986,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans%20http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans%20https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -964,7 +1003,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fbank_loans%2F&amp;title=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fbank_loans%2F&amp;title=Climate&#43;Policy&#43;Action&#43;and&#43;the&#43;Pricing&#43;of&#43;Bank&#43;Loans" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -997,11 +1036,11 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="http://localhost:1313/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu6b7d4a6acf18fb1fb25a22edffd5c891_915657_270x270_fill_q75_lanczos_center.jpg" alt=""></a>
+      <a href="https://maximilian-fuchs.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu6b7d4a6acf18fb1fb25a22edffd5c891_915657_270x270_fill_q75_lanczos_center.jpg" alt=""></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="http://localhost:1313/"></a></h5>
+      <h5 class="card-title"><a href="https://maximilian-fuchs.github.io/"></a></h5>
       
       <p class="card-text">My research interests include climate finance and asset pricing</p>
       <ul class="network-icon" aria-hidden="true">
@@ -1173,7 +1212,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
@@ -1254,7 +1293,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1268,11 +1307,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1305,7 +1344,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
