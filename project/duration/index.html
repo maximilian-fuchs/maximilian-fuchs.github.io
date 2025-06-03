@@ -3,7 +3,7 @@
 <!-- Last Published: June 3, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.e3577d6086d047490578696ff2080496.css" />
 
   
   
@@ -239,6 +239,45 @@
   <meta name="google-site-verification" content="google-site-verification=LhgILf3dcXbGiXNgqgY9wGlx1j_3pkESv58wzs40pNM" />
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7X1GZ53TXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-7X1GZ53TXN', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -286,8 +325,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/duration/" />
-<link rel="canonical" href="http://localhost:1313/project/duration/" />
+<link rel="alternate" hreflang="en-us" href="https://maximilian-fuchs.github.io/project/duration/" />
+<link rel="canonical" href="https://maximilian-fuchs.github.io/project/duration/" />
 
 
 
@@ -317,7 +356,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/project/duration/featured.png" />
+<meta property="twitter:image" content="https://maximilian-fuchs.github.io/project/duration/featured.png" />
 
 
 
@@ -325,7 +364,7 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Maximilian Fuchs" />
-<meta property="og:url" content="http://localhost:1313/project/duration/" />
+<meta property="og:url" content="https://maximilian-fuchs.github.io/project/duration/" />
 <meta property="og:title" content="Polluters are Short-Lived: Climate Risk and the Timing of Cash Flows | Maximilian Fuchs" />
 <meta property="og:description" content="&lt;p&gt;&lt;/p&gt;
 &lt;div style=&#34;text-align: justify; font-size: 0.85rem&#34;&gt;
@@ -335,7 +374,7 @@
   and duration premiums. Return differences are driven by emissions instead of duration and disappear after 
   controlling for changes in investors&#39; climate concerns. These changes, together with the novel link between 
   duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.
-&lt;/div&gt;" /><meta property="og:image" content="http://localhost:1313/project/duration/featured.png" /><meta property="og:locale" content="en-us" />
+&lt;/div&gt;" /><meta property="og:image" content="https://maximilian-fuchs.github.io/project/duration/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -368,12 +407,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/project/duration/"
+    "@id": "https://maximilian-fuchs.github.io/project/duration/"
   },
   "headline": "Polluters are Short-Lived: Climate Risk and the Timing of Cash Flows",
   
   "image": [
-    "http://localhost:1313/project/duration/featured.png"
+    "https://maximilian-fuchs.github.io/project/duration/featured.png"
   ],
   
   "datePublished": "2023-04-29T00:00:00Z",
@@ -384,7 +423,7 @@
     "name": "Maximilian Fuchs",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
+      "url": "https://maximilian-fuchs.github.io/media/icon_hu285de9ab8543fefa96ff36f76b4f030b_205582_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "\u003cp\u003e\u003c/p\u003e\n\u003cdiv style=\"text-align: justify; font-size: 0.85rem\"\u003e\n  I construct a measure of cash flow duration at the firm level and link it to carbon emissions of the same firm. \n  Firms that generate their cash flows in the near term emit more carbon, reflecting that short-term cash flows \n  are relatively less exposed to regulatory climate risks. This relationship leads to high correlations of emission \n  and duration premiums. Return differences are driven by emissions instead of duration and disappear after \n  controlling for changes in investors' climate concerns. These changes, together with the novel link between \n  duration and emissions, provide an intuitive empirical explanation for the recent underperformance of value.\n\u003c/div\u003e"
@@ -440,7 +479,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -898,7 +937,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F&amp;text=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F&amp;text=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -915,7 +954,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F&amp;t=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F&amp;t=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -934,7 +973,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
         
       
       <li>
-        <a href="mailto:?subject=Polluters%20are%20Short-Lived%3A%20Climate%20Risk%20and%20the%20Timing%20of%20Cash%20Flows&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Polluters%20are%20Short-Lived%3A%20Climate%20Risk%20and%20the%20Timing%20of%20Cash%20Flows&amp;body=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -951,7 +990,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F&amp;title=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F&amp;title=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -968,7 +1007,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="whatsapp://send?text=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows%20http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows%20https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -985,7 +1024,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fduration%2F&amp;title=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmaximilian-fuchs.github.io%2Fproject%2Fduration%2F&amp;title=Polluters&#43;are&#43;Short-Lived%3A&#43;Climate&#43;Risk&#43;and&#43;the&#43;Timing&#43;of&#43;Cash&#43;Flows" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1099,7 +1138,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
@@ -1180,7 +1219,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1194,11 +1233,11 @@ I construct a measure of cash flow duration at the firm level and link it to car
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1231,7 +1270,7 @@ I construct a measure of cash flow duration at the firm level and link it to car
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
