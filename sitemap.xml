@@ -2,127 +2,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maximilian-fuchs.github.io/project/carbon_vix/</loc>
+    <loc>http://localhost:1313/project/carbon_vix/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/project/bank_loans/</loc>
+    <loc>http://localhost:1313/project/permit_holdings/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/project/duration/</loc>
+    <loc>http://localhost:1313/project/bank_loans/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/project/duration/</loc>
     <lastmod>2023-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/project/stress_test/</loc>
+    <loc>http://localhost:1313/project/stress_test/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:1313/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:1313/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/tag/academic/</loc>
+    <loc>http://localhost:1313/tag/academic/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/tag/policy/</loc>
+    <loc>http://localhost:1313/tag/policy/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/category/demo/</loc>
+    <loc>http://localhost:1313/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/post/getting-started/</loc>
+    <loc>http://localhost:1313/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:1313/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication/preprint/</loc>
+    <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication-type/article/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/tag/source-themes/</loc>
+    <loc>http://localhost:1313/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/post/jupyter/</loc>
+    <loc>http://localhost:1313/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/slides/example/</loc>
+    <loc>http://localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication/journal-article/</loc>
+    <loc>http://localhost:1313/data/permit_holdings_data/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/data/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maximilian-fuchs.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
